@@ -123,7 +123,7 @@ requests-file==3.0.1
     # via tldextract
 roman-numerals==4.1.0
     # via sphinx
-scrapy==2.14.2
+scrapy==2.17.0
     # via scrapy-spider-metadata
 scrapy-spider-metadata==0.2.0
     # via -r requirements.in
@@ -194,7 +194,6 @@ typing-extensions==4.15.0
     # via
     #   pydantic
     #   pydantic-core
-    #   pyopenssl
     #   twisted
     #   typing-inspection
 typing-inspection==0.4.2
