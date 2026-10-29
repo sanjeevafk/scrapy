@@ -37,7 +37,7 @@ docutils==0.22.4
     #   sphinx-llm-friendly
     #   sphinx-rtd-theme
     #   sphinx-scrapy
-filelock==3.25.2
+filelock==4.2.1
     # via tldextract
 h2==4.3.0
     # via -r requirements.in
@@ -194,7 +194,6 @@ typing-extensions==4.15.0
     # via
     #   pydantic
     #   pydantic-core
-    #   pyopenssl
     #   twisted
     #   typing-inspection
 typing-inspection==0.4.2
